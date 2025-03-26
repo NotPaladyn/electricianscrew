@@ -15,10 +15,10 @@ const Gallery = () => {
             <div className="gallery-items">
                 {images.map((src, index) => (
                     <a key={index} className="gallery-item anim-appear"
-                       href={`/images/gallery/${src}`}
+                       href={`images/gallery/${src}`}
                        data-lightbox="gallery"
                        data-title="Zdjęcie z galerii Electricians Crew">
-                        <img src={`/images/gallery/${src}`} 
+                        <img src={`images/gallery/${src}`} 
                              alt="Zdjęcie z galerii Electricians Crew"/>
                     </a>
                 ))}

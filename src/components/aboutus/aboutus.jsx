@@ -13,8 +13,8 @@ const Aboutus = () => {
                     <p><strong>Zapraszamy do współpracy</strong> zarówno <strong>firmy prywatne</strong>, jak i <strong>instytucje publiczne</strong>. Z <strong>Electricians Crew</strong> możesz być pewien <strong>profesjonalizmu i rzetelności</strong>!</p>
                 </div>
                 <div className="aboutus-imgs">
-                    <img src="/images/aboutus1.webp" alt="" />
-                    <img src="/images/aboutus2.webp" alt="" />
+                    <img src="images/aboutus1.webp" alt="" />
+                    <img src="images/aboutus2.webp" alt="" />
                 </div>
             </div>
         </div>

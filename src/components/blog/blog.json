@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "tytul": "Jakie korzyści daje modernizacja instalacji elektrycznej?",
+        "tresc": "Współczesne budynki wymagają coraz bardziej zaawansowanych systemów elektrycznych. <strong>Modernizacja instalacji elektrycznej</strong> to kluczowy krok w zapewnieniu bezpieczeństwa i oszczędności energii. W starszych budynkach przewody mogą być przestarzałe, co zwiększa ryzyko zwarć i pożarów. Dzięki modernizacji można dostosować instalację do aktualnych norm, co zapewni <strong>bezpieczeństwo domowników</strong> i poprawi efektywność energetyczną.",
+        "teksty": [
+            "Współczesne budynki, zarówno mieszkalne, jak i przemysłowe, wymagają nowoczesnych systemów elektrycznych, które zapewniają nie tylko bezpieczeństwo, ale również efektywność energetyczną. <strong>Modernizacja instalacji elektrycznej</strong> jest kluczowym krokiem dla każdego, kto chce uniknąć awarii, zwiększyć komfort użytkowania i dostosować system do aktualnych norm.",
+            "W starszych budynkach przewody mogą być przestarzałe, co prowadzi do przegrzewania się instalacji i potencjalnych zagrożeń pożarowych. Niezmodernizowane systemy często nie są dostosowane do rosnących wymagań energetycznych współczesnych urządzeń elektrycznych. Dlatego tak ważne jest, aby regularnie przeprowadzać inspekcję i modernizować instalację."
+        ],
+        "grafika": 1
+    },
+    {
+        "id": 2,
+        "tytul": "Projektowanie instalacji elektrycznej – na co zwrócić uwagę?",
+        "tresc": "Planując <strong>instalację elektryczną</strong> w nowym budynku lub podczas remontu, warto uwzględnić kilka kluczowych aspektów. Przede wszystkim należy dostosować ją do potrzeb użytkowników oraz rodzaju budynku. Ważne jest odpowiednie rozmieszczenie gniazdek, punktów oświetleniowych oraz przewodów, aby uniknąć późniejszych problemów.",
+        "teksty": [
+            "Przestarzałe instalacje są częstą przyczyną pożarów. <strong>Wymiana przewodów, zabezpieczeń i rozdzielnic</strong> pozwala zmniejszyć ryzyko zwarć i porażeń prądem. Nowoczesne systemy ochrony, takie jak wyłączniki różnicowoprądowe, automatycznie odcinają dopływ energii w przypadku wykrycia nieprawidłowości.",
+            "Nowoczesne rozwiązania technologiczne pozwalają na zmniejszenie zużycia prądu. Instalacja energooszczędnych źródeł światła, inteligentnych systemów sterowania oświetleniem czy automatycznych czujników ruchu to tylko niektóre sposoby na obniżenie rachunków za energię.",
+            "Modernizacja instalacji umożliwia dostosowanie liczby gniazd i punktów oświetleniowych do aktualnych potrzeb użytkowników. Dzięki temu można uniknąć problemu nadmiernego obciążania pojedynczych obwodów, co zwiększa stabilność działania całego systemu."
+        ],
+        "grafika": 2
+    },
+    {
+        "id": 3,
+        "tytul": "Dlaczego warto inwestować w instalacje fotowoltaiczne?",
+        "tresc": "W dobie rosnących cen energii coraz więcej osób decyduje się na <strong>fotowoltaikę</strong>. Instalacja paneli słonecznych to nie tylko oszczędność, ale także ekologiczne rozwiązanie, które pozwala na zmniejszenie emisji CO2. Systemy fotowoltaiczne pozwalają na samodzielne wytwarzanie energii elektrycznej, co redukuje zależność od dostawców prądu.",
+        "teksty": [
+            "Przy projektowaniu instalacji należy uwzględnić rozmieszczenie urządzeń elektrycznych i źródeł światła. Odpowiednia liczba gniazd elektrycznych w każdym pomieszczeniu zapobiega konieczności stosowania przedłużaczy, co poprawia bezpieczeństwo i komfort użytkowania.",
+            "Instalacja powinna być dostosowana do specyficznych potrzeb użytkowników. W budynkach mieszkalnych należy uwzględnić miejsca przeznaczone na sprzęt AGD, RTV oraz biurka komputerowe. W obiektach komercyjnych ważne jest zapewnienie odpowiedniego zasilania dla maszyn i urządzeń.",
+            "życie wysokiej jakości przewodów, gniazd i rozdzielnic jest kluczowe dla trwałości i bezpieczeństwa instalacji. Warto postawić na komponenty renomowanych producentów, które spełniają aktualne normy techniczne."
+        ],
+        "grafika": 3
+    },
+    {
+        "id": 4,
+        "tytul": "Jak poprawić efektywność energetyczną w domu?",
+        "tresc": "Efektywność energetyczna to kluczowy aspekt nowoczesnych budynków. Aby zmniejszyć zużycie energii, warto stosować nowoczesne <strong>systemy oświetleniowe</strong>, np. LED, które pobierają mniej prądu niż tradycyjne żarówki. Kolejnym krokiem jest zastosowanie inteligentnych systemów sterowania, które pozwalają na automatyczne wyłączanie urządzeń, gdy nie są używane.",
+        "teksty": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "grafika": 4
+    },
+    {
+        "id": 5,
+        "tytul": "Jakie są najczęstsze usterki instalacji elektrycznych?",
+        "tresc": "Problemy z <strong>instalacjami elektrycznymi</strong> mogą prowadzić do poważnych awarii, a nawet pożarów.",
+        "teksty": [
+            "Obecnie budynki są coraz częściej wyposażone w systemy teletechniczne, takie jak sieci komputerowe, systemy alarmowe i monitoring wizyjny. Nowoczesne rozwiązania pozwalają na integrację tych systemów z instalacją elektryczną, co zapewnia większą funkcjonalność i komfort użytkowania.",
+            "<strong>Korzyści z Instalacji Teletechnicznych</strong></br>Poprawa bezpieczeństwa dzięki monitoringowi i alarmom.</br>Łatwa komunikacja wewnętrzna w budynkach biurowych.</br>Integracja z systemami zarządzania budynkiem (BMS)."
+        ],
+        "grafika": 5
+    }
+]

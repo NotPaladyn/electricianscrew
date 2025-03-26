@@ -1,0 +1,51 @@
+.counters {
+    position: relative;
+    display: flex;
+    padding: 4rem 0;
+    background-color: var(--main);
+    width: 100%;
+    justify-content: center;
+}
+
+.counters::before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top, var(--dark) 0%, transparent 5%, transparent 90%, var(--main) 100%);
+    pointer-events: none;
+}
+
+.counters-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 4vw;
+}
+
+.counter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.counter h2 {
+    font-size: 1.6rem;
+    color: var(--silver);
+}
+
+.counter h3 {
+    font-size: 2.4rem;
+    color: var(--white);
+}
+
+@media (min-witdh: 768px) {
+    .counters-box {
+        flex-direction: row;
+    }
+}

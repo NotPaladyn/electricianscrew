@@ -1,0 +1,56 @@
+:root {
+    --main: #109648;
+    --white: #fcfcfc;
+    --silver: #cccccc;
+    --black: #050505;
+    --dark: #23282E;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    transition: all 0.3s ease-in;
+}
+
+body {
+    max-width: 100% !important;
+    box-sizing: border-box;
+    font-family: "Atkinson Hyperlegible Next", sans-serif;
+    background-color: var(--white);
+    overflow-x: hidden;
+}
+
+
+/*  */
+
+.anim-appear {
+    animation: appear 5s linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 40%;
+}
+.anim-appear-scale {
+    animation: appear-scale 5s ease-in-out both;
+    animation-timeline: view();
+    animation-range: entry 0% cover 40%;
+}
+
+@keyframes appear {
+    from {
+        opacity: 0.1;
+    }
+    to {
+        opacity: 1;
+    }
+}
+@keyframes appear-scale {
+    from {
+        opacity: 0;
+        transform: scale(0.5);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}

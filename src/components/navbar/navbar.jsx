@@ -11,7 +11,7 @@ const Navbar = () => {
     return (
         <div className="navbar">
             <div className="navbar-box">
-                <a href="/" className="navbar-logo">
+                <a href="/electricianscrew/" className="navbar-logo">
                     <img src="images/logo.svg" height="8vh" alt="Logo firmy Electricians Crew"/>
                     <h1>Electricians Crew</h1>
                 </a>

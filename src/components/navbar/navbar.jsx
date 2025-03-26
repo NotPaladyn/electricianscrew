@@ -16,10 +16,10 @@ const Navbar = () => {
                     <h1>Electricians Crew</h1>
                 </a>
                 <div className={`navbar-list ${mobileMenu ? "active" : ""}`}>
-                    <a href="/blog">Blog</a>
-                    <a href="/galeria">Galeria</a>
-                    <a href="/oferta">Oferta</a>
-                    <a href="/kontakt">Kontakt</a>
+                    <a href="blog">Blog</a>
+                    <a href="galeria">Galeria</a>
+                    <a href="oferta">Oferta</a>
+                    <a href="kontakt">Kontakt</a>
                     <span className="close-list" onClick={() => toggleMobileMenu(false)}>ZAMKNIJ</span>
                 </div>
                 <div className="navbar-menu" onClick={() => toggleMobileMenu(true)}>
